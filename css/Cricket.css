@@ -1,0 +1,50 @@
+div h1
+{
+    color: white;
+    padding: 10px;
+    background: radial-gradient(red,green);
+    border-radius: 12px;
+    text-decoration: none;
+}
+a 
+{
+    padding: 3px;
+    text-decoration: none;
+}
+a:visited
+{
+    background: linear-gradient(45deg,gray,white);
+    color: red;
+}
+p 
+{
+    text-align: left;
+    padding: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 22px;
+}
+html 
+{
+    scroll-behavior: smooth;
+}
+body 
+{
+    background: linear-gradient(45deg,lightgreen,rgba(247, 243, 13, 0.836),lightgreen);
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
+table 
+{
+    width: 100%;
+}
+img
+{
+    border: 3px solid rgb(57, 48, 175);
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 0 0 15px rgb(57, 48, 175);
+}
